@@ -31,6 +31,8 @@ Automation Engineer by day, Full Stack Developer by Night <img src="https://medi
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-John-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-connolly-677196157/)
 
+<div style="line-height:5px;">&nbsp;</div>
+
 ### :hammer_and_wrench: Professional Languages and Tools :
 
 <div>
