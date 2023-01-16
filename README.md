@@ -19,6 +19,17 @@
   <div style="line-height:5px;">&nbsp;</div>
 </h1>
 
+### :man_technologist: About Me :
+
+Automation Engineer by day, Full Stack Developer by Night <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: I’m working as a Software Engineer in Test at Ramsey Solutions working to help bring peace to other people's lives.
+
+- :seedling: Working to increase the speed of releases by automating processes and testing.
+
+- :zap: In my free time, I build full stack systems that solve fun business problems and simple fun robots.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-connolly-677196157/)
 
 ### :hammer_and_wrench: Professional Languages and Tools :
 
