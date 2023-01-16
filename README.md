@@ -29,7 +29,7 @@ Automation Engineer by day, Full Stack Developer by Night <img src="https://medi
 
 - :zap: In my free time, I build full stack systems that solve fun business problems and simple fun robots.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-connolly-677196157/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-John-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-connolly-677196157/)
 
 ### :hammer_and_wrench: Professional Languages and Tools :
 
