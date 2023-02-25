@@ -14,7 +14,7 @@
 ---
 
 <h1 align="center">
-  hey there
+  Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <div style="line-height:5px;">&nbsp;</div>
 </h1>
@@ -23,9 +23,9 @@
 
 Automation Engineer by day, Full Stack Developer by Night <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer in Test at Ramsey Solutions working to help bring peace to other people's lives.
+- :telescope: I’m working as a Software Engineer in Test at Ramsey Solutions and working to help bring financial (and other kinds of) peace to other's lives.
 
-- :seedling: Working to increase the speed of releases by automating processes and testing.
+- :seedling: Working to increase the speed of releases by automating testing and helping reduce manual tasks for others.
 
 - :zap: In my free time, I build full stack systems that solve fun business problems and simple fun robots.
 
